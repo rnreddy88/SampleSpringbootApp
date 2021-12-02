@@ -1,0 +1,5 @@
+com\samplespringbootapp\model\Tutorial.class
+com\samplespringbootapp\controller\TutorialController.class
+com\samplespringbootapp\repository\TutorialRepository.class
+com\samplespringbootapp\config\SwaggerConfig.class
+com\samplespringbootapp\SpringBootJpaH2Application.class

@@ -1,2 +1,1 @@
-# SampleSpringbootApp
-this is first commit.
+﻿This is sample Springboot Application. 
